@@ -1,0 +1,70 @@
+2025-08-21 15:51:39,765 - WOBExtractor - INFO - Extraction statistics reset
+2025-08-21 15:51:39,790 - WOBExtractor - INFO - Processing PDF: C:/Users/sstan/OneDrive/Documents/01 PDF\Coachella Valley USD WOB Report - August 2025.pdf
+2025-08-21 15:51:39,835 - WOBExtractor - WARNING - No text extracted from page 2 in Coachella Valley USD WOB Report - August 2025.pdf
+2025-08-21 15:51:39,989 - WOBExtractor - WARNING - No concerns found for record: April Camarillo ................................................................................ 5
+2025-08-21 15:51:39,990 - WOBExtractor - WARNING - Record 'April Camarillo ................................................................................ 5' has missing fields: location, concerns
+2025-08-21 15:51:39,991 - WOBExtractor - WARNING - Record 'April Camarillo' has missing fields: location
+2025-08-21 15:51:39,991 - WOBExtractor - INFO - Successfully extracted 2 records from Coachella Valley USD WOB Report - August 2025.pdf
+2025-08-21 15:51:39,996 - WOBExtractor - INFO - Processing PDF: C:/Users/sstan/OneDrive/Documents/01 PDF\Dawson County Schools WOB Report 1 - August 2025.pdf
+2025-08-21 15:51:40,034 - WOBExtractor - WARNING - No text extracted from page 2 in Dawson County Schools WOB Report 1 - August 2025.pdf
+2025-08-21 15:51:40,324 - WOBExtractor - WARNING - No concerns found for record: Payten Pruitt .................................................................................. 5
+2025-08-21 15:51:40,324 - WOBExtractor - WARNING - Record 'Payten Pruitt .................................................................................. 5' has missing fields: location, concerns
+2025-08-21 15:51:40,325 - WOBExtractor - WARNING - Record 'Payten Pruitt' has missing fields: location
+2025-08-21 15:51:40,325 - WOBExtractor - INFO - Successfully extracted 2 records from Dawson County Schools WOB Report 1 - August 2025.pdf
+2025-08-21 15:51:40,329 - WOBExtractor - INFO - Processing PDF: C:/Users/sstan/OneDrive/Documents/01 PDF\Palm Springs USD WOB Report - August 2025.pdf
+2025-08-21 15:51:40,362 - WOBExtractor - WARNING - No text extracted from page 2 in Palm Springs USD WOB Report - August 2025.pdf
+2025-08-21 15:51:40,516 - WOBExtractor - WARNING - No concerns found for record: Yahirel Navarro .............................................................................. 5
+2025-08-21 15:51:40,516 - WOBExtractor - WARNING - Record 'Yahirel Navarro .............................................................................. 5' has missing fields: location, concerns
+2025-08-21 15:51:40,517 - WOBExtractor - WARNING - Record 'Yahirel Navarro' has missing fields: location
+2025-08-21 15:51:40,517 - WOBExtractor - INFO - Successfully extracted 2 records from Palm Springs USD WOB Report - August 2025.pdf
+2025-08-21 15:51:40,519 - WOBExtractor - INFO - Processing PDF: C:/Users/sstan/OneDrive/Documents/01 PDF\Red Lake Schools WOB Report - August 2025.pdf
+2025-08-21 15:51:40,556 - WOBExtractor - WARNING - No text extracted from page 2 in Red Lake Schools WOB Report - August 2025.pdf
+2025-08-21 15:51:40,850 - WOBExtractor - WARNING - No concerns found for record: Talan (Last Name Unconfirmed) .................................................... 5
+2025-08-21 15:51:40,850 - WOBExtractor - WARNING - Record 'Talan (Last Name Unconfirmed) .................................................... 5' has missing fields: location, concerns
+2025-08-21 15:51:40,850 - WOBExtractor - WARNING - No concerns found for record: Waylen Johnson ............................................................................ 13
+2025-08-21 15:51:40,851 - WOBExtractor - WARNING - Record 'Waylen Johnson ............................................................................ 13' has missing fields: location, concerns
+2025-08-21 15:51:40,852 - WOBExtractor - WARNING - Record 'Talan (Last Name Unconfirmed)' has missing fields: location
+2025-08-21 15:51:40,853 - WOBExtractor - WARNING - Record 'Waylen Johnson' has missing fields: location
+2025-08-21 15:51:40,853 - WOBExtractor - INFO - Successfully extracted 4 records from Red Lake Schools WOB Report - August 2025.pdf
+2025-08-21 15:51:40,855 - WOBExtractor - INFO - Processing PDF: C:/Users/sstan/OneDrive/Documents/01 PDF\SD75 WOB Report - August 2025.pdf
+2025-08-21 15:51:40,896 - WOBExtractor - WARNING - No text extracted from page 2 in SD75 WOB Report - August 2025.pdf
+2025-08-21 15:51:41,282 - WOBExtractor - WARNING - No concerns found for record: Klade Abbott ................................................................................... 5
+2025-08-21 15:51:41,282 - WOBExtractor - WARNING - Record 'Klade Abbott ................................................................................... 5' has missing fields: location, concerns
+2025-08-21 15:51:41,282 - WOBExtractor - WARNING - No concerns found for record: Makenzie (Last Name Unconfirmed) ............................................... 18
+2025-08-21 15:51:41,282 - WOBExtractor - WARNING - Record 'Makenzie (Last Name Unconfirmed) ............................................... 18' has missing fields: location, concerns
+2025-08-21 15:51:41,283 - WOBExtractor - WARNING - Record 'Klade Abbott' has missing fields: location
+2025-08-21 15:51:41,284 - WOBExtractor - WARNING - Record 'Makenzie (Last Name Unconfirmed)' has missing fields: location
+2025-08-21 15:51:41,285 - WOBExtractor - INFO - Successfully extracted 4 records from SD75 WOB Report - August 2025.pdf
+2025-08-21 15:51:41,289 - WOBExtractor - INFO - Processing PDF: C:/Users/sstan/OneDrive/Documents/01 PDF\Troy CCSD WOB Report - August 2025.pdf
+2025-08-21 15:51:41,322 - WOBExtractor - WARNING - No text extracted from page 2 in Troy CCSD WOB Report - August 2025.pdf
+2025-08-21 15:51:41,502 - WOBExtractor - WARNING - No concerns found for record: Kiera Triplett .................................................................................. 5
+2025-08-21 15:51:41,502 - WOBExtractor - WARNING - Record 'Kiera Triplett .................................................................................. 5' has missing fields: location, concerns
+2025-08-21 15:51:41,503 - WOBExtractor - WARNING - No concerns found for record: Kiera Triplett
+2025-08-21 15:51:41,503 - WOBExtractor - WARNING - Record 'Kiera Triplett' has missing fields: location, concerns
+2025-08-21 15:51:41,503 - WOBExtractor - INFO - Successfully extracted 2 records from Troy CCSD WOB Report - August 2025.pdf
+2025-08-21 15:51:41,527 - WOBExtractor - INFO - Extraction quality report saved to: C:/Users/sstan/OneDrive/Documents/01 PDF\20250821 - Extraction Quality Report (August 2025).csv
+2025-08-21 15:57:54,257 - WOBExtractor - DEBUG - Cleaned name from 'Kiera Triplett ....................................................................................' to 'Kiera Triplett'
+2025-08-21 15:57:54,257 - WOBExtractor - DEBUG - Cleaned SOC affiliation from 'Gang ABC .......................................................................' to 'Gang ABC' using pattern: SOC Affiliation:\s*(.+?)(?:\n|$)
+2025-08-21 15:57:54,257 - WOBExtractor - DEBUG - Cleaned location from 'Vancouver .............................................................................' to 'Vancouver' using pattern: Location:\s*(.+?)(?:\n|$)
+2025-08-21 15:57:54,257 - WOBExtractor - DEBUG - Cleaned school from 'Central High School .....................................................................' to 'Central High School' using pattern: School.*?:\s*(.+?)(?:\n|$)
+2025-08-21 15:57:54,261 - WOBExtractor - DEBUG - Found 2 concerns marked
+2025-08-21 16:09:18,730 - WOBExtractor - INFO - Processing PDF: c:/Users/sstan/OneDrive/Documents/01 PDF/Palm Springs USD WOB Report - August 2025.pdf
+2025-08-21 16:09:18,769 - WOBExtractor - WARNING - No text extracted from page 2 in Palm Springs USD WOB Report - August 2025.pdf
+2025-08-21 16:09:18,949 - WOBExtractor - DEBUG - Cleaned name from 'Yahirel Navarro .............................................................................. 5' to 'Yahirel Navarro 5'
+2025-08-21 16:09:18,950 - WOBExtractor - DEBUG - No SOC affiliation found in section
+2025-08-21 16:09:18,950 - WOBExtractor - DEBUG - No location found in section. Searched text:  Yahirel Navarro .............................................................................. 5
+School Attends: Possibly Cathedral City High School ..................................................
+2025-08-21 16:09:18,950 - WOBExtractor - DEBUG - Cleaned school from 'Possibly Cathedral City High School .............................................................. 5' to 'Possibly Cathedral City High School 5' using pattern: School.*?:\s*(.+?)(?:\n|$)
+2025-08-21 16:09:18,953 - WOBExtractor - WARNING - No concerns found for record: Yahirel Navarro 5
+2025-08-21 16:09:18,955 - WOBExtractor - WARNING - Record 'Yahirel Navarro 5' has missing fields: location, concerns
+2025-08-21 16:09:18,955 - WOBExtractor - DEBUG - Extracted name: Yahirel Navarro
+2025-08-21 16:09:18,955 - WOBExtractor - DEBUG - No SOC affiliation found in section
+2025-08-21 16:09:18,955 - WOBExtractor - DEBUG - No location found in section. Searched text:  Yahirel Navarro
+School Attends: Possibly Cathedral City High School
+Concerns Reported
+Categories are specified using the below checkboxes to aid in Threat Assessments and
+intervention planning. The p
+2025-08-21 16:09:18,955 - WOBExtractor - DEBUG - Extracted school: Possibly Cathedral City High School using pattern: School.*?:\s*(.+?)(?:\n|$)
+2025-08-21 16:09:18,956 - WOBExtractor - DEBUG - Found 1 concerns marked
+2025-08-21 16:09:18,956 - WOBExtractor - WARNING - Record 'Yahirel Navarro' has missing fields: location
+2025-08-21 16:09:18,957 - WOBExtractor - INFO - Successfully extracted 2 records from Palm Springs USD WOB Report - August 2025.pdf
